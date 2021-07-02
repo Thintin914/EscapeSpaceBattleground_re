@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: ad0b946f2aea2094783cd18d4106fc9d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Airtank
+    100002: Body
+    100004: ear001
+    100006: ear002
+    100008: Helmet
+    100010: Legs
+    100012: //RootNode
+    100014: tube001
+    100016: tube002
+    100018: tube003
+    100020: tube004
+    100022: tube005
+    100024: tube006
+    100026: Sphere001
+    400000: Airtank
+    400002: Body
+    400004: ear001
+    400006: ear002
+    400008: Helmet
+    400010: Legs
+    400012: //RootNode
+    400014: tube001
+    400016: tube002
+    400018: tube003
+    400020: tube004
+    400022: tube005
+    400024: tube006
+    400026: Sphere001
+    2100000: whiteshell
+    2100002: 'Material #26'
+    2100004: metal
+    2100006: orange
+    2100008: glass
+    2100010: red
+    2300000: Airtank
+    2300002: Body
+    2300004: ear001
+    2300006: ear002
+    2300008: Helmet
+    2300010: Legs
+    2300012: tube001
+    2300014: tube002
+    2300016: tube003
+    2300018: tube004
+    2300020: tube005
+    2300022: tube006
+    2300024: Sphere001
+    3300000: Airtank
+    3300002: Body
+    3300004: ear001
+    3300006: ear002
+    3300008: Helmet
+    3300010: Legs
+    3300012: tube001
+    3300014: tube002
+    3300016: tube003
+    3300018: tube004
+    3300020: tube005
+    3300022: tube006
+    3300024: Sphere001
+    4300000: Helmet
+    4300002: ear001
+    4300004: ear002
+    4300006: Body
+    4300008: Legs
+    4300010: Airtank
+    4300012: tube001
+    4300014: tube002
+    4300016: tube003
+    4300018: tube004
+    4300020: tube005
+    4300022: tube006
+    4300024: Sphere001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

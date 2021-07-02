@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: b8a9a3141f353024fba56d4015563626
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: airblower001
+    100002: airblower003
+    100004: airblower004
+    100006: airblower005
+    100008: airblower006
+    100010: Circle_002_Circle_003
+    100012: Cube_002_Cube_005
+    100014: map
+    100016: planet
+    100018: platform
+    100020: //RootNode
+    400000: airblower001
+    400002: airblower003
+    400004: airblower004
+    400006: airblower005
+    400008: airblower006
+    400010: Circle_002_Circle_003
+    400012: Cube_002_Cube_005
+    400014: map
+    400016: planet
+    400018: platform
+    400020: //RootNode
+    2100000: day 2 rocket_Material
+    2100002: day 2 rocket_Material_002
+    2100004: day 2 rocket_Material_004
+    2100006: day 2 rocket_Material_006
+    2100008: purple3
+    2100010: red1
+    2100012: 'Material #118'
+    2100014: red2
+    2100016: red3
+    2100018: purple4
+    2100020: purple2
+    2100022: purple6
+    2100024: purple5
+    2100026: purple1
+    2100028: blue
+    2100030: pink
+    2100032: 'Material #29'
+    2100034: 'Material #28'
+    2100036: 'Material #30'
+    2100038: 'Material #27'
+    2100040: tint
+    2100042: light blue
+    2100044: 04 - Default
+    2100046: metal
+    2100048: planet1
+    2300000: airblower001
+    2300002: airblower003
+    2300004: airblower004
+    2300006: airblower005
+    2300008: airblower006
+    2300010: Circle_002_Circle_003
+    2300012: Cube_002_Cube_005
+    2300014: map
+    2300016: planet
+    2300018: platform
+    3300000: airblower001
+    3300002: airblower003
+    3300004: airblower004
+    3300006: airblower005
+    3300008: airblower006
+    3300010: Circle_002_Circle_003
+    3300012: Cube_002_Cube_005
+    3300014: map
+    3300016: planet
+    3300018: platform
+    4300000: Circle_002_Circle_003
+    4300002: Cube_002_Cube_005
+    4300004: map
+    4300006: airblower001
+    4300008: airblower003
+    4300010: airblower004
+    4300012: airblower005
+    4300014: airblower006
+    4300016: platform
+    4300018: planet
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
